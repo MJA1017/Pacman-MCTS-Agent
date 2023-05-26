@@ -1,9 +1,5 @@
 # Model-Based Monte Carlo Tree Search For Pacman
 
-Authors: [@chiragvartak](https://github.com/chiragvartak), [@NeilFranks](https://github.com/NeilFranks), [@fmendoz7](https://github.com/fmendoz7)  
-The project page for this repository describes our approach in much more detail: [Project page](https://chiragvartak.github.io/monte-carlo-pacman/)  
-If you want to understand how to train and run the agent, check out this video: [Monte Carlo Pacman](https://www.youtube.com/watch?v=rvm8Kqri2sM)
-
 ## Environment Details
 
 All our code has been tested with Python 2 (2.7.18 to be precise). We do not use any version specific libraries so any
