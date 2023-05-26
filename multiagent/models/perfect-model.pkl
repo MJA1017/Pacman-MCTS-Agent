@@ -1,5 +1,5 @@
 (dp0
-(ccopy_reg
+(copyreg
 _reconstructor
 p1
 (cfeatureBasedGameState

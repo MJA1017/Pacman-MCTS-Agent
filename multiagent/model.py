@@ -28,6 +28,7 @@ class Model(object):
 
 def getModel(filename):
     with open(filename, 'rb') as f:
+        print(f)
         data = pickle.load(f)
     model = Model()
     model.data = data
